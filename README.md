@@ -2,6 +2,11 @@
 
 SatChat is a Very simple, Decentralised Chat App made using Gunjs and Sveltejs. Gun is a realtime, decentralized, embedded, graph database engine.
 
+## Live Demo 
+Either open multiple tabs and signup as different users or Chat along with your friends.
+
+[Try it out by yourself here:](https://violet-evangelin-47.tiiny.site/)
+
 ## 🔗App Snaps ✨🤹🏽‍♀️
 
 <p align="center">
@@ -46,7 +51,6 @@ npm install
 npm run dev
 
 ```
-# 🔗Demo :
 
 # 🔗Contributing 💡
 
