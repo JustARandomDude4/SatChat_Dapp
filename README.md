@@ -1,13 +1,16 @@
 # SatChat_Dapp⚡⚡
 
-A Decentralised Chat App
+SatChat is a Very simple, Decentralised Chat App made using Gunjs and Sveltejs. Gun is a realtime, decentralized, embedded, graph database engine.
 
-##End Result Snaps ✨🤹🏽‍♀️
+## 🔗App Snaps ✨🤹🏽‍♀️
 <p align="center">
   <img src="https://github.com/JustARandomDude4/SatChat_Dapp/blob/master/ScreenShots/SatChat00.PNG" width="500 title="Final Results">
 </p>
 <p align="center">
   <img src="https://github.com/JustARandomDude4/SatChat_Dapp/blob/master/ScreenShots/SatChat01.PNG" width="500 title="Final Results">
+</p>
+                                                                                                                                      
+<p align="center">  
     <img src="https://github.com/JustARandomDude4/SatChat_Dapp/blob/master/ScreenShots/SatChat02.PNG" width="500 title="Final Results">
 </p>
 
@@ -18,12 +21,12 @@ A bit of explanation to give u insight about gun.js :
   <img src="https://github.com/JustARandomDude4/SatChat_Dapp/blob/master/ScreenShots/SatChat5.PNG" width="500 title="Final Results">
 </p>
 
-## Prerequisites📦 
+## 🔗Prerequisites📦 
 
 - [A code Editor]
 - [node globally installed]
 
-### Cloning and Running the project 🛠️⚙
+### 🔗Cloning and Running the project 🛠️⚙
 
 ```
 mkdir SatChat_Dapp
@@ -46,9 +49,15 @@ npm install
 npm run dev
 
 ```
-# Demo :
+# 🔗Demo :
 
-# Contributing 💡
+# 🔗Contributing 💡
 
-If you can help us to add other pages. Please don't hesitate to open an [pull request](https://github.com/https://github.com/JustARandomDude4/MemEthereum/pulls) or facing any problem create [issue](https://github.com/JustARandomDude4/issues) here.
+If you can help me add more features . Please don't hesitate to open an [pull request](https://github.com/JustARandomDude4/SatChat_Dapp/pulls) or facing any problem create [issue](https://github.com/JustARandomDude4/SatChat_Dapp/issues) here.
+
+## 🔗Contact me 📲📤
+  If u find  any errors in the code, or want to enquire on how to download, pls don't mind to ping me :))
+ [My gmail](satwikakatragadda444@gmail.com)
+ [My Linkedin](https://www.linkedin.com/in/khs4/)
+
 
