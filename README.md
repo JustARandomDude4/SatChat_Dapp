@@ -9,6 +9,7 @@ SatChat is a Very simple, Decentralised Chat App made using Gunjs and Sveltejs. 
 <p align="center">
   <img src="https://github.com/JustARandomDude4/SatChat_Dapp/blob/master/ScreenShots/SatChat01.PNG" width="600 title="Final Results">
 </p>
+--------------------------------------------------
 ## Getting Started
 
 A bit of explanation to give u insight about gun.js :
